@@ -1,0 +1,4 @@
+1.Cisco Service:Technical Services:Smart Services Technology Group SSTG:CMS:QS EM7:EM7 hsbc RBA User
+2.Cisco Service:Technical Services:Smart Services Technology Group SSTG:CMS:Cisco Managed Services -ServiceNow Access:cms-domain-platform-operations-role
+3.Cisco Service:Technical Services:Smart Services Technology Group SSTG:CMS:CMS Service Now - Assignment Groups:cms-ag-uc-default 
+4.Cisco Service:Technical Services:Smart Services Technology Group SSTG:CMS:Cisco Managed Services -ServiceNow Access:cms-platops-portal 

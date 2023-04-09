@@ -1,0 +1,6 @@
+*Feb 28 2023 12:21:50.261 UTC: %CONTROLLER-5-UPDOWN: Controller E1 0/1/1, changed state to up
+*Feb 28 2023 12:21:52.677 UTC: %MARS_NETCLK-3-HOLDOVER: Exiting Holdover for Controller E1 0/1/1
+*Feb 28 2023 13:03:24.252 UTC: %CONTROLLER-5-UPDOWN: Controller E1 0/1/1, changed state to down (RAI detected)
+*Feb 28 2023 13:03:24.424 UTC: %MARS_NETCLK-3-HOLDOVER: Entering Holdover for Controller E1 0/1/1
+*Feb 28 2023 13:03:25.252 UTC: %CONTROLLER-5-UPDOWN: Controller E1 0/1/1, changed state to up
+*Feb 28 2023 13:03:27.676 UTC: %MARS_NETCLK-3-HOLDOVER: Exiting Holdover for Controller E1 0/1/1
